@@ -1,7 +1,7 @@
 {
   "name": "nodebeginner",
   "description": "The Node Beginner Book Code. See http://www.nodebeginner.org/",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "start": "node index.js"
   },
